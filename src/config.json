@@ -1,39 +1,33 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
-    "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
+    "url": "https://gankun.cn.ma",
+    "title": "Riceneeder",
+    "description": "Riceneeder的朋友圈",
+    "keywords": "Riceneeder,blog,中药学,JavaScript,typescript,博客,前端,技术,学习,分享,生活,随笔,日常",
     "lang": "zh-CN",
-    "favicon": "/favicon.ico",
-    "appleTouchIcon": "/apple-touch-icon.png"
+    "favicon": "https://q1.qlogo.cn/g?b=qq&nk=845541909&s=640",
+    "appleTouchIcon": "https://q1.qlogo.cn/g?b=qq&nk=845541909&s=640"
   },
   "author": {
-    "name": "lxchapu",
+    "name": "Riceneeder",
     "twitterId": "@lxchapu",
-    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
+    "avatar": "https://q1.qlogo.cn/g?b=qq&nk=845541909&s=640"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
-    "description": "Clean, Cute, Fast.",
+    "name": "Riceneeder",
+    "bio": "白天研究生、晚上研究死",
+    "description": "吃、喝、玩、乐",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/astro-gyoza",
+        "url": "https://github.com/lxchapu/Riceneeder",
         "color": "rgb(24, 23, 23)"
-      },
-      {
-        "name": "X",
-        "icon": "icon-x",
-        "url": "https://twitter.com/lxchapu",
-        "color": "rgb(36, 46, 54)"
       },
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "mailto:845541909@qq.com",
         "color": "rgb(212, 70, 56)"
       }
     ],
@@ -71,31 +65,26 @@
       "icon": "icon-pantone"
     },
     {
+      "name": "胡言乱语",
+      "link": "/talk",
+      "icon": "icon-ghost"
+    },
+    {
       "name": "归档",
       "link": "/archives",
       "icon": "icon-archive"
     },
     {
-      "name": "项目",
-      "link": "/projects",
-      "icon": "icon-flask"
-    },
-    {
       "name": "关于",
       "link": "/about",
       "icon": "icon-ghost"
-    },
-    {
-      "name": "友链",
-      "link": "/friends",
-      "icon": "icon-hearts"
     }
   ],
   "posts": {
     "perPage": 10
   },
   "footer": {
-    "startTime": "2024-04-14T00:00:00Z"
+    "startTime": "2024-07-04T00:00:00Z"
   },
   "docSearch": {
     "appId": "",
@@ -103,7 +92,7 @@
     "indexName": ""
   },
   "waline": {
-    "serverURL": "https://waline.lxchapu.com"
+    "serverURL": "https://waline.gankun.cn.ma/"
   },
   "sponsor": {
     "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
@@ -118,7 +107,7 @@
       "websiteId": ""
     },
     "microsoftClarity": {
-        "projectId": ""
+      "projectId": ""
     }
   }
 }
