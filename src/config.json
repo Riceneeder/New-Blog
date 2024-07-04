@@ -3,7 +3,7 @@
     "url": "https://gankun.cn.ma",
     "title": "Riceneeder",
     "description": "Riceneeder的朋友圈",
-    "keywords": "Riceneeder,blog,中药学,JavaScript,typescript,博客,前端,技术,学习,分享,生活,随笔,日常",
+    "keywords": "Riceneeder,blog,中药学,JavaScript,typescript,博客,前端,技术,学习,分享,生活,随笔,日常,成都中医药大学",
     "lang": "zh-CN",
     "favicon": "https://q1.qlogo.cn/g?b=qq&nk=845541909&s=640",
     "appleTouchIcon": "https://q1.qlogo.cn/g?b=qq&nk=845541909&s=640"
@@ -63,6 +63,11 @@
       "name": "首页",
       "link": "/",
       "icon": "icon-pantone"
+    },
+    {
+      "name": "已发表文章",
+      "link": "/projects",
+      "icon": "icon-article"
     },
     {
       "name": "胡言乱语",
