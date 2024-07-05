@@ -21,7 +21,7 @@
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/Riceneeder",
+        "url": "https://github.com/Riceneeder",
         "color": "rgb(24, 23, 23)"
       },
       {
@@ -86,7 +86,7 @@
     }
   ],
   "posts": {
-    "perPage": 10
+    "perPage": 5
   },
   "footer": {
     "startTime": "2020-03-02T00:00:00Z"
