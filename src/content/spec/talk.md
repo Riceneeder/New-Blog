@@ -3,6 +3,8 @@ title: 胡言乱语
 description: 我知道我精神不太正常，但是我还是想说点什么。
 comments: false
 ---
+## 好看的云
+![好看的云](https://download.gankun.cn.ma/api/raw/?path=/%E5%9B%BE%E7%89%87/202408-%E4%BA%91.webp)
 
 ## 活着还行，死了也没什么
 
