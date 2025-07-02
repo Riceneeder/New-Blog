@@ -12,28 +12,16 @@ comments: false
 
 已发表文章：
 
-https://doi.org/10.1016/j.ijbiomac.2024.133614
+[![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1016/j.ijbiomac.2024.133614)](https://doi.org/10.1016/j.ijbiomac.2024.133614)
 
-![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1016/j.ijbiomac.2024.133614)
+[![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1016/j.ijbiomac.2024.136473)](https://doi.org/10.1016/j.ijbiomac.2024.136473)
 
-https://doi.org/10.1016/j.ijbiomac.2024.136473
+[![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1016/j.ijbiomac.2024.135765)](https://doi.org/10.1016/j.ijbiomac.2024.135765)
 
-![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1016/j.ijbiomac.2024.136473)
+[![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?lang=zh&doi=10.13412/j.cnki.zyyl.20240712.001)](https://doi.org/10.13412/j.cnki.zyyl.20240712.001)
 
-https://doi.org/10.1016/j.ijbiomac.2024.135765
+[![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1016/j.ijbiomac.2025.145036)](https://doi.org/10.1016/j.ijbiomac.2025.145036)
 
-![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1016/j.ijbiomac.2024.135765)
-
-https://doi.org/10.13412/j.cnki.zyyl.20240712.001
-
-![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?lang=zh&doi=10.13412/j.cnki.zyyl.20240712.001)
-
-https://doi.org/10.1016/j.ijbiomac.2025.145036
-
-![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1016/j.ijbiomac.2025.145036)
-
-https://doi.org/10.1038/s41598-025-01756-y
-
-![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1038/s41598-025-01756-y)
+[![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1038/s41598-025-01756-y)](https://doi.org/10.1038/s41598-025-01756-y)
 
 Integrate MaxEnt with chemometrics to evaluate the impact of environmental variables on the distribution of Angelica dahurica and coumarin content. https://doi.org/10.3389/fpls.2025.1600491. **Provisionally accepted**
