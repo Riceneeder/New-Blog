@@ -20,4 +20,5 @@ comments: false
 
 6. [![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.1038/s41598-025-01756-y)](https://doi.org/10.1038/s41598-025-01756-y)
 
-7. Integrate MaxEnt with chemometrics to evaluate the impact of environmental variables on the distribution of Angelica dahurica and coumarin content. https://doi.org/10.3389/fpls.2025.1600491. **Provisionally accepted**
+7. Gan, Z., Ma, J., Liu, X., Luo, J., Li, J., Pu, L., Jiang, G., Lian, Y., 2025. Integrating MaxEnt with chemometrics to evaluate the impact of environmental variables on the coumarin content and the distribution of Angelica dahurica. Front. Plant Sci. 16. https://doi.org/10.3389/fpls.2025.1600491
+   [![DOI Card](https://doicard.gankun.cn.ma/api/doi-card?doi=10.3389/fpls.2025.1600491)](https://doi.org/10.3389/fpls.2025.1600491)
