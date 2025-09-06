@@ -65,11 +65,6 @@
       "icon": "icon-pantone"
     },
     {
-      "name": "已发表文章",
-      "link": "/projects",
-      "icon": "icon-article"
-    },
-    {
       "name": "胡言乱语",
       "link": "/talk",
       "icon": "icon-ghost"
